@@ -22,7 +22,7 @@ var ranNumberTwo = Math.floor(Math.random() * 6) + 1;
     document.querySelector("h1").innerText=("Player Two Won!");
 
   }
-
+// My first solution is here below but after that i found out a better one, it sits on  the top.
 /*if (ranNumber === 1) {
       source = "./images/dice1.png";
     } else if (ranNumber === 2) {
@@ -53,3 +53,4 @@ var ranNumberTwo = Math.floor(Math.random() * 6) + 1;
     }
     document.querySelector(".img1").setAttribute("src", source);
 */
+
